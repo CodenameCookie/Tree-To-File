@@ -18,8 +18,8 @@ If you get an error about permissions you can temporarily bypass that with:
 PowerShell.exe -ExecutionPolicy Bypass -File .\powershell\tree-exclude_modules.ps1  
 ```
 # Tree Text File Content Example
-I thought to add an example of how it could look using this rep as an example (got to love being recursive).
-This project wouldnt include `node_modules` but this should give you an better idea what this repo does.
+I thought to add an example of the text file output could look using this repo as an example (got to love being recursive).
+This project wouldnt include `node_modules` but this should give you a better idea what this repo does.
 
 ```
 ﻿Folder PATH listing
