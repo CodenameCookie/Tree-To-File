@@ -11,9 +11,9 @@ First you need to install `Tree` with a package manager. I recommend Chocolatey 
 
 You can run the PowerShell script from the parent directory containing the PowerShell folder the directory with:
 ```
-  	.\powershell\tree-exclude_modules.ps1
+.\powershell\tree-exclude_modules.ps1
 ```
 If you get an error about permissions you can temporarily bypass that with: 
 ```
-  	PowerShell.exe -ExecutionPolicy Bypass -File .\powershell\tree-exclude_modules.ps1  
+PowerShell.exe -ExecutionPolicy Bypass -File .\powershell\tree-exclude_modules.ps1  
 ```
